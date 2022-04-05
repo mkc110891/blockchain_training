@@ -1,0 +1,23 @@
+Date: 5th April 2022
+- Wallet check
+- Wallet invoke
+- Wallet connection
+- Wallet disconnect
+- Get wallet address
+- Get balance
+- Check & set network/chain
+- Create transfer instruction and send to connected wallet for the transaction
+- Trigger smartcontract method
+
+Blockchain Network
+- Ethereum -
+- Solana -
+- Bitcoin
+
+Task:
+- Do all these transaction
+- Use Ethereum with multiple networks
+- Do same with Solana
+
+
+
